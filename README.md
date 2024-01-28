@@ -3,6 +3,9 @@ I design and create scripts for the very popular Grand Theft Auto Roleplay Platf
 
 
 ## 🌐 Socials:
+[![Discord](https://skillicons.dev/icons?i=disscord)](https://discord.gg/dirkscripts)
+
+
 [![Store](https://skillicons.dev/icons?i=js)](https://www.dirkscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/dirkscripts) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dirkscripts) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DirkScripts) 
 
 # 💻 Tech Stack:
