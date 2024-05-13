@@ -7,7 +7,7 @@ I design and create scripts for the very popular Grand Theft Auto Roleplay Platf
 [![Twitch](http://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/dirkscripts)
 
 # 💻 Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=js,lua,react,ts,html,mysql,jquery,figma)](https://www.dirkscripts.com)
+[![Tech Stack](https://skillicons.dev/icons?i=lua,react,ts,js,html,mysql,jquery,figma)](https://www.dirkscripts.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DirkDigglerz&icon=3&color=3)](https://visitcount.itsvg.in)
