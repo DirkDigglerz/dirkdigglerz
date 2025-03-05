@@ -1,6 +1,9 @@
 # 💫 About Me:
 I design and create scripts for the very popular Grand Theft Auto Roleplay Platform FiveM!
 
+# Projects 
+[Clean Pack FiveM](https://github.com/Clean-Server-Pack) - A collection of resources designed to work well together, some freebies in here.
+
 ## 🌐 Socials:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/dirkscripts)
 [![Youtube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@DirkScripts)
