@@ -4,13 +4,9 @@ I am the founder of DirkScripts, a leading provider of custom scripts for the Gr
 ## 🌐 Socials:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/dirkscripts)  
 [![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@DirkScripts)  
-[![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/dirkscripts)
-
 ## 💻 Tech Stack:
 [![Tech Stack](https://skillicons.dev/icons?i=lua,react,vite,ts,js,html,mysql,jquery,figma,npm,pnpm,githubactions)](https://www.dirkscripts.com)
-
 ---
-
 [![](https://visitcount.itsvg.in/api?id=DirkDigglerz&icon=3&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 Support My Work:
