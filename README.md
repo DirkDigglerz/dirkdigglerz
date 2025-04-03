@@ -8,4 +8,7 @@ I am the founder of DirkScripts, a leading provider of custom scripts for the Gr
 
 ## 💰 Support My Work:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://ko-fi.com/dirkscripts)
+
+--- 
+
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/dirkscripts)  
